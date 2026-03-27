@@ -2,39 +2,39 @@
 
 Last updated: 2026-03-27
 
-This Privacy Policy explains the minimum key information about data use in Nami Bot (the "Bot").
-
-Nami Bot is a fan-created, unofficial project and is not affiliated with, endorsed by, sponsored by, or approved by Eiichiro Oda, Shueisha, Toei Animation, or any official One Piece rights holders.
-
-All One Piece names, logos, characters, images, and related franchise elements are the property of their respective owners.
+This Privacy Policy explains what information Nami Bot (the "Bot") collects, how we use it, and your options regarding that information.
 
 ## 1. Operator
 Nami Bot is operated by the Nami Bot team ("we", "us", "our").
 
 Contact: https://discord.gg/SFnd9cPASD
 
-## 2. Core Item: Data We Collect
-We collect and store only what is needed to run gameplay, including:
-- Discord user ID (account identifier).
-- Gameplay and profile data (progression, currency, crew, ships, events, PvP, titles, referrals, bounty, and similar game-state data).
-- Moderation status (for example ban state).
-- Basic record timestamps (created/updated).
+## 2. Information We Collect
+We collect and store information needed to operate the Bot, including:
+- Discord user ID (used as the account identifier).
+- Gameplay and profile data (for example progression, currency, crew, ships, events, PvP, titles, referrals, bounty, and related game-state data).
+- Moderation status (for example whether an account is banned).
+- Basic record timestamps (for example created and updated times).
 
 We do not request account passwords. We do not intentionally collect sensitive personal data through ordinary Bot gameplay.
 
-## 3. Core Item: Why We Use Data
-We use data to operate the Bot, save progress, provide features, prevent abuse, and keep the service stable.
+## 3. How We Use Information
+We use collected information to:
+- Operate game features and user accounts.
+- Save and restore player progress.
+- Prevent abuse and enforce Bot rules.
+- Maintain and improve service reliability.
 
-## 4. Core Item: Data Sharing
+## 4. Sharing of Information
 We do not sell user data.
 
-We may share limited data with hosting/infrastructure providers only as needed to operate the Bot, or if required by law.
+We may share limited information with infrastructure or hosting providers only as needed to run the Bot. We may also disclose information if required by law.
 
-## 5. Core Item: Retention
-We keep data while needed for operations, abuse prevention, and support. We may delete or anonymize data no longer required.
+## 5. Data Retention
+We keep information for as long as needed to operate the Bot, prevent abuse, and support users. We may delete or anonymize data that is no longer needed.
 
-## 6. Core Item: User Requests and Deletion
-You may request account-related data deletion by contacting us at:
+## 6. Your Data Requests
+You may request deletion of account-related data by contacting us at:
 
 https://discord.gg/SFnd9cPASD
 
