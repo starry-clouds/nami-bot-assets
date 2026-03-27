@@ -2,7 +2,7 @@
 
 Last updated: 2026-03-27
 
-This Privacy Policy explains what information Nami Bot collects, how it is used, and what choices you have.
+This Privacy Policy describes how Nami Bot (the "Bot") collects, uses, stores, and discloses information in connection with your use of the Bot.
 
 Nami Bot is a fan-created, unofficial project and is not affiliated with, endorsed by, sponsored by, or approved by Eiichiro Oda, Shueisha, Toei Animation, or any official One Piece rights holders.
 
@@ -14,16 +14,16 @@ Nami Bot is operated by the Nami Bot team ("we", "us", "our").
 Contact: https://discord.gg/SFnd9cPASD
 
 ## 2. Information We Collect
-We process data needed to operate gameplay and account features, including:
+We process information reasonably necessary to provide and maintain Bot functionality, including:
 - Discord user ID (used as the account identifier in our system).
 - Gameplay data such as progression, level, experience, currency balance, sail count, crew, ships, combat state, event state, dailies, autosail state, collection log, PvP stats/matchups, referral state, bounty state, titles, and related profile settings.
 - Service moderation status (for example, ban status).
 - Technical metadata such as record creation and update timestamps.
 
-We do not require passwords from users. We do not intentionally collect sensitive personal information through normal Bot gameplay.
+We do not request account passwords. We do not intentionally collect sensitive personal data through ordinary Bot gameplay.
 
 ## 3. How We Use Data
-We use data to:
+We use information to:
 - Provide core game functionality.
 - Save player progress and restore game state.
 - Enable gameplay features (for example PvP, rewards, events, referrals, and profile systems).
@@ -31,40 +31,40 @@ We use data to:
 - Diagnose errors and improve reliability.
 
 ## 4. Legal Basis (where applicable)
-Where privacy laws require a legal basis, we process data for our legitimate interests in operating, securing, and improving the Bot, and to perform the service requested by users.
+Where applicable law requires a legal basis for processing, we rely on legitimate interests in operating, securing, and improving the Bot, and on performance of the services requested by users.
 
 ## 5. Data Sharing
 We do not sell user data.
 
-We may share limited data with service providers strictly for hosting, storage, or operational needs, and only as needed to run the Bot.
+We may share limited information with service providers solely for hosting, storage, security, and operational support, and only to the extent necessary to operate the Bot.
 
-We may also disclose data when required by law or to protect users and the service.
+We may disclose information where required by law, legal process, or governmental request, or where reasonably necessary to protect users, enforce our policies, or protect service integrity.
 
 ## 6. Data Retention
-We retain gameplay/account data while the Bot is active and as reasonably necessary for operations, abuse prevention, and dispute handling.
+We retain gameplay and account-related information while the Bot remains active and for as long as reasonably necessary for operations, abuse prevention, compliance, and dispute resolution.
 
-We may delete or anonymize data that is no longer needed.
+When information is no longer required for these purposes, we may delete or anonymize it.
 
 ## 7. Your Choices and Rights
 You can stop using the Bot at any time.
 
-You may request account data deletion by contacting us at:
+You may request deletion of your account-related data by contacting us at:
 
 https://discord.gg/SFnd9cPASD
 
-To process deletion requests, we may require enough information to verify account ownership.
+To process requests securely, we may require sufficient information to verify account ownership.
 
 ## 8. Security
-We use reasonable technical and organizational measures to protect stored data. No method of storage or transmission is completely secure.
+We implement reasonable technical and organizational safeguards designed to protect stored information. No method of transmission or storage is completely secure.
 
 ## 9. Children's Privacy
-The Bot is not directed to children under the minimum age required by Discord or applicable law.
+The Bot is not directed to children below the minimum age required by Discord or applicable law.
 
 ## 10. International Transfers
-Your data may be processed in countries other than your own, depending on where infrastructure providers operate.
+Information may be processed in countries other than your own, depending on where infrastructure and service providers operate.
 
 ## 11. Changes to this Policy
-We may update this Privacy Policy from time to time. Continued use of the Bot after updates indicates acceptance of the updated policy.
+We may revise this Privacy Policy from time to time. Revisions are effective upon publication. Continued use of the Bot after publication constitutes acceptance of the revised Policy.
 
 ## 12. Contact
 For privacy questions or requests, contact:
