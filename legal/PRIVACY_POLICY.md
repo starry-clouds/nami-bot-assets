@@ -55,18 +55,24 @@ https://discord.gg/SFnd9cPASD
 To process requests securely, we may require sufficient information to verify account ownership.
 
 ## 8. Security
-We implement reasonable technical and organizational safeguards designed to protect stored information. No method of transmission or storage is completely secure.
+We maintain reasonable technical, administrative, and organizational safeguards designed to protect information against unauthorized access, disclosure, alteration, and destruction.
+
+Notwithstanding these measures, no method of transmission over the Internet or electronic storage is fully secure, and we cannot guarantee absolute security.
 
 ## 9. Children's Privacy
-The Bot is not directed to children below the minimum age required by Discord or applicable law.
+The Bot is not directed to individuals under the minimum age required by Discord or by applicable law in the relevant jurisdiction.
 
 ## 10. International Transfers
-Information may be processed in countries other than your own, depending on where infrastructure and service providers operate.
+Information may be processed, stored, or accessed in jurisdictions other than your own, including where our infrastructure or service providers are located.
+
+By using the Bot, you acknowledge that your information may be transferred to and processed in those jurisdictions, which may provide data protection standards different from those in your country of residence.
 
 ## 11. Changes to this Policy
-We may revise this Privacy Policy from time to time. Revisions are effective upon publication. Continued use of the Bot after publication constitutes acceptance of the revised Policy.
+We may amend this Privacy Policy from time to time to reflect operational, legal, or regulatory changes.
+
+Any updated version becomes effective upon publication. Your continued use of the Bot after publication constitutes acceptance of the revised Privacy Policy.
 
 ## 12. Contact
-For privacy questions or requests, contact:
+For privacy-related questions, requests, or notices, please contact us at:
 
 https://discord.gg/SFnd9cPASD
