@@ -2,54 +2,49 @@
 
 Last updated: 2026-03-27
 
-This Privacy Policy explains what information Nami Bot (the "Bot") collects, how we use it, and your options regarding that information.
+This Privacy Policy explains how Nami Bot (the "Bot") collects, uses, stores, and discloses information when you use the Bot.
 
-## 1. Operator
-Nami Bot is operated by the Nami Bot team ("we", "us", "our").
+## Information We Collect
+We collect only information needed to operate the Bot, including:
+- Discord user ID (account identifier).
+- Gameplay and profile data (for example progression, currencies, crew, ships, events, PvP, titles, referrals, and bounty data).
+- Moderation and account status data (for example ban status).
+- Basic service metadata (for example created and updated timestamps).
 
-Contact: https://discord.gg/SFnd9cPASD
+We do not request account passwords. We do not intentionally collect sensitive personal information through normal gameplay.
 
-## 2. Information We Collect
-We collect and store information needed to operate the Bot, including:
-- Discord user ID (used as the account identifier).
-- Gameplay and profile data (for example progression, currency, crew, ships, events, PvP, titles, referrals, bounty, and related game-state data).
-- Moderation status (for example whether an account is banned).
-- Basic record timestamps (for example created and updated times).
+## How We Use Information
+We use information to:
+- Provide and maintain gameplay features.
+- Save and restore progress.
+- Prevent abuse and enforce rules.
+- Improve reliability and service quality.
 
-We do not request account passwords. We do not intentionally collect sensitive personal data through ordinary Bot gameplay.
+## How Information Is Shared
+We do not sell user information.
 
-## 3. How We Use Information
-We use collected information to:
-- Operate game features and user accounts.
-- Save and restore player progress.
-- Prevent abuse and enforce Bot rules.
-- Maintain and improve service reliability.
+We may share limited information with infrastructure or hosting providers only when required to operate the Bot. We may also disclose information if required by law or legal process.
 
-## 4. Sharing of Information
-We do not sell user data.
+## Data Retention
+We retain information for as long as necessary to operate the Bot, prevent abuse, and support users. We may delete or anonymize data that is no longer needed.
 
-We may share limited information with infrastructure or hosting providers only as needed to run the Bot. We may also disclose information if required by law.
-
-## 5. Data Retention
-We keep information for as long as needed to operate the Bot, prevent abuse, and support users. We may delete or anonymize data that is no longer needed.
-
-## 6. Your Data Requests
-You may request deletion of account-related data by contacting us at:
+## Data Requests
+You may request deletion of your account-related data by contacting us at:
 
 https://discord.gg/SFnd9cPASD
 
-We may require account ownership verification before processing requests.
+We may request enough information to verify account ownership before processing a request.
 
-## 7. Security
-We use reasonable safeguards to protect stored data, but no system is perfectly secure.
+## Data Security
+We use reasonable safeguards to protect stored information. No storage or transmission method is fully secure.
 
-## 8. Children's Privacy
-The Bot is not directed to users below the minimum age required by Discord or applicable law.
+## Children's Privacy
+The Bot is not directed to users under the minimum age required by Discord or applicable law.
 
-## 9. Changes to this Policy
-We may update this Privacy Policy. Continued use after updates means you accept the revised version.
+## Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. Continued use of the Bot after updates means you accept the revised policy.
 
-## 10. Contact
-For privacy questions or requests, contact:
+## Contact Us
+For privacy-related questions or requests, contact:
 
 https://discord.gg/SFnd9cPASD
